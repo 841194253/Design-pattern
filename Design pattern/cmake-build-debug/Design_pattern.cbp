@@ -1,0 +1,1710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Design_pattern"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Command_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Command_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Command_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Command_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Command_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Command_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Memento_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Memento_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Memento_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Memento_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Memento_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Memento_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Observer_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Observer_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Observer_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Observer_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Observer_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Observer_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="State_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/State_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 State_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="State_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/State_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 State_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Strategy_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Strategy_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Strategy_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Strategy_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Strategy_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Strategy_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Template_Method_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Template_Method_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Template_Method_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Template_Method_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Template_Method_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Template_Method_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Visitor_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Visitor_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Visitor_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Visitor_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Visitor_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Visitor_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Iterator_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Iterator_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Iterator_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Iterator_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Iterator_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Iterator_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proxy_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/proxy_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 proxy_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proxy_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/proxy_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 proxy_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Flyweight_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Flyweight_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Flyweight_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Flyweight_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Flyweight_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Flyweight_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Adapter_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Adapter_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Adapter_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Adapter_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Adapter_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Adapter_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Facade_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Facade_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Facade_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Facade_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Facade_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Facade_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Interpreter_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Interpreter_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Interpreter_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Interpreter_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Interpreter_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Interpreter_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bridge_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Bridge_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridge_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bridge_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Bridge_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridge_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Composite_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Composite_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Composite_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Composite_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Composite_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Composite_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prototype_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Prototype_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prototype_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prototype_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Prototype_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prototype_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="random_shuffle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/random_shuffle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 random_shuffle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="random_shuffle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/random_shuffle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 random_shuffle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Builder_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Builder_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Builder_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Builder_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Builder_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Builder_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Composite_Reuse_Principle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Composite_Reuse_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Composite_Reuse_Principle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Composite_Reuse_Principle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Composite_Reuse_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Composite_Reuse_Principle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Factory_method_model">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Factory_method_model" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Factory_method_model"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Factory_method_model/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Factory_method_model" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Factory_method_model/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Abstract_factory_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Abstract_factory_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Abstract_factory_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Abstract_factory_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Abstract_factory_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Abstract_factory_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Singleton_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Singleton_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Singleton_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Singleton_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Singleton_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Singleton_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mediator_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Mediator_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mediator_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mediator_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Mediator_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mediator_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Interface_Segregation_Principle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Interface_Segregation_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Interface_Segregation_Principle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Interface_Segregation_Principle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Interface_Segregation_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Interface_Segregation_Principle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chain_of_Responsibility_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Chain_of_Responsibility_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chain_of_Responsibility_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chain_of_Responsibility_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Chain_of_Responsibility_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chain_of_Responsibility_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Decorator_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Decorator_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Decorator_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Decorator_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Decorator_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Decorator_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Single_Responsibility_Principle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Single_Responsibility_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Single_Responsibility_Principle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Single_Responsibility_Principle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Single_Responsibility_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Single_Responsibility_Principle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Liskov_Substitution_Principle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Liskov_Substitution_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Liskov_Substitution_Principle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Liskov_Substitution_Principle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Liskov_Substitution_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Liskov_Substitution_Principle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dimitt_rule">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Dimitt_rule" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dimitt_rule"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dimitt_rule/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Dimitt_rule" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dimitt_rule/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dependence_Inversion_Principle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Dependence_Inversion_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dependence_Inversion_Principle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dependence_Inversion_Principle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Dependence_Inversion_Principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dependence_Inversion_Principle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simple_factory_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Simple_factory_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simple_factory_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simple_factory_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Simple_factory_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simple_factory_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Opening_and_closing_principle">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Opening_and_closing_principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Opening_and_closing_principle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Opening_and_closing_principle/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Opening_and_closing_principle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Opening_and_closing_principle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="speech-contest">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/speech-contest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 speech-contest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="speech-contest/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/speech-contest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 speech-contest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="accumulate">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/accumulate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 accumulate"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="accumulate/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/accumulate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 accumulate/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="merge">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/merge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="merge/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/merge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/set" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 set"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/set" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 set/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Design_pattern">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Design_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Design_pattern"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Design_pattern/fast">
+				<Option output="/Users/apple/Desktop/Design pattern/cmake-build-debug/Design_pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/Desktop/Design pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Design_pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/apple/Desktop/Design\ pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Abstract_factory_pattern.cpp">
+			<Option target="Abstract_factory_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Adapter_pattern.cpp">
+			<Option target="Adapter_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Bridge_pattern.cpp">
+			<Option target="Bridge_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Builder_pattern.cpp">
+			<Option target="Builder_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Chain_of_Responsibility_pattern.cpp">
+			<Option target="Chain_of_Responsibility_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Command_pattern.cpp">
+			<Option target="Command_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Composite_Reuse_Principle.cpp">
+			<Option target="Composite_Reuse_Principle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Composite_pattern.cpp">
+			<Option target="Composite_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Decorator_pattern.cpp">
+			<Option target="Decorator_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Dependence_Inversion_Principle.cpp">
+			<Option target="Dependence_Inversion_Principle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Dimitt_rule.cpp">
+			<Option target="Dimitt_rule"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Facade_pattern.cpp">
+			<Option target="Facade_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Factory_method_model.cpp">
+			<Option target="Factory_method_model"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Flyweight_pattern.cpp">
+			<Option target="Flyweight_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Interface_Segregation_Principle.cpp">
+			<Option target="Interface_Segregation_Principle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Interpreter_pattern.cpp">
+			<Option target="Interpreter_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Iterator_pattern.cpp">
+			<Option target="Iterator_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Liskov_Substitution_Principle.cpp">
+			<Option target="Liskov_Substitution_Principle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Mediator_pattern.cpp">
+			<Option target="Mediator_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Memento_pattern.cpp">
+			<Option target="Memento_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Observer_pattern.cpp">
+			<Option target="Observer_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Opening_and_closing_principle.cpp">
+			<Option target="Opening_and_closing_principle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Prototype_pattern.cpp">
+			<Option target="Prototype_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Simple_factory_pattern.cpp">
+			<Option target="Simple_factory_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Single_Responsibility_Principle.cpp">
+			<Option target="Single_Responsibility_Principle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Singleton_pattern.cpp">
+			<Option target="Singleton_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/State_pattern.cpp">
+			<Option target="State_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Strategy_pattern.cpp">
+			<Option target="Strategy_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Template_Method_pattern.cpp">
+			<Option target="Template_Method_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/Visitor_pattern.cpp">
+			<Option target="Visitor_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/accumulate.cpp">
+			<Option target="accumulate"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/main.cpp">
+			<Option target="Design_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/merge.cpp">
+			<Option target="merge"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/proxy_pattern.cpp">
+			<Option target="proxy_pattern"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/random_shuffle.cpp">
+			<Option target="random_shuffle"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/set.cpp">
+			<Option target="set"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/speech-contest.cpp">
+			<Option target="speech-contest"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/Design pattern/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

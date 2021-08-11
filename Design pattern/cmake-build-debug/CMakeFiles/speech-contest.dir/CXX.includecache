@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/Desktop/Design pattern/speech-contest.cpp
+iostream
+-
+map
+-
+vector
+-
+algorithm
+-
+string
+-
+numeric
+-
+functional
+-
+deque
+-
+time.h
+-
+
